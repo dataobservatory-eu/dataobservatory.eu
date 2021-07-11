@@ -29,6 +29,10 @@ links:
   icon_pack: fas
   name: Try API
   url: https://api.econommy.dataobservatory.eu/
+- icon: globe
+  icon_pack: fas
+  name: Automated Data Observatories
+  url: https://dataobservatory.eu/#observatories
 url_code: ""
 url_pdf: ""
 url_slides: ""
