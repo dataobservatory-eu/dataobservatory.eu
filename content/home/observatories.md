@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Services
-subtitle: 'Automated Data Services'
+title: Automated Data Observatories
+subtitle: From open data and open-source statistical software to data-as-service.
 
 content:
   # Page type to display. E.g. project.
