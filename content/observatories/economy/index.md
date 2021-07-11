@@ -1,6 +1,6 @@
 ---
 title: Economy Data Observatory
-summary: Our observatory is monitoring the European economy to protect the consumers and the small companies from unfair competition both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
+summary: An incubator for socio-economic data observatories. Its first offspring is the Competition Data Observatory.
 tags:
 - economy
 date: "2021-01-21T00:00:00Z"

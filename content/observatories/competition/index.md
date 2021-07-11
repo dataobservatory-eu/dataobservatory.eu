@@ -1,6 +1,6 @@
 ---
 title: Competition Data Observatory
-summary: Our observatory is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
+summary: Our observatory is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe.
 tags:
 - competition
 date: "2021-06-23T00:00:00Z"
