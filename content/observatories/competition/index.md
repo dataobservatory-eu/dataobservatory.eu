@@ -22,7 +22,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: telescope
+- icon: globe
   icon_pack: fas
   name: Competition Data Observatory
   url: https://competition-data-observatory.netlify.app/
