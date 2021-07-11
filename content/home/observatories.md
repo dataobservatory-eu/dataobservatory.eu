@@ -14,7 +14,7 @@ subtitle: From open data and open-source statistical software to data-as-service
 
 content:
   # Page type to display. E.g. project.
-  page_type: services
+  page_type: observatories
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
