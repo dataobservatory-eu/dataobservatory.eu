@@ -68,7 +68,7 @@ We ensure that individual researchers, artists, and professionals, as well as NG
 <tr>
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="[The Data Sisyphus](/post/2021-07-08-data-sisyphus/)</br>Poor metadata management causes much repeated tasks, errors, non-billable hours and uncredited work." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.png" caption="[Open Data](/post/2021-06-18-gold-without-rush/)</br>Open data cannot be just 'downloaded'. It is not ready-to-use, and often not even public." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/firing_squad.png" caption="[Trustworthy AI](/post/2021-05-16-recommendation-outcomes/)</br>What can go wrong with the algorithm?" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/firing_squad.png" caption="[Trustworthy AI](/post/2021-05-16-recommendation-outcomes/)</br>What can go wrong with the algorithm? Finding unwanted outcomes and correcting them in complex systems." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2020/automated_creative_observatory_4x6.png" caption="[Research Automation](/post/2020-09-11-creating-automated-observatory/)</br>Repeaded data processing and validation steps are best made, documented, logged by computers." numbered="false" >}}</td>
 </tr>
 <tr>
