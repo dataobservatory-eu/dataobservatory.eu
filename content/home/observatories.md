@@ -31,8 +31,8 @@ content:
     tag: music
   - name: Competition
     tag: competition
-  - name: Green Dea
-    tag: greendeal
+  - name: Green Deal
+    tag: climate-change
   - name: Economy
     tag: economy
 
