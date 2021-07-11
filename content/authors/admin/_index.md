@@ -74,5 +74,14 @@ We ensure that individual researchers, artists, and professionals, as well as NG
 </tbody>
 </table>
 
-We are looking for partners to develop our technological solution in a financially sustainable way, bringing increasingly relevant curated open data to light. Our Product/Market Fit was validated in the world’s 2nd ranked university-backed incubator program, the Yes!Delft AI Validation Lab. We are currently developing this project with the help of the JUMP European Music Market Accelerator program.
+We are looking for partners to develop our technological solution in a financially sustainable way, bringing increasingly relevant curated open data to light. 
+
+{{< icon name="hand-point-right" pack="fas" >}}Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](/#contributors), [open-source libraries](/software/) and use our data for publications. See some [use cases](/#featured).
+
+{{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
+
+{{< icon name="phone" pack="fas" >}}Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
+
+
+Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/).
 
