@@ -27,13 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Digital Music Observatory
+  - name: Music
     tag: music
-  - name: Competition Data Observatory
+  - name: Competition
     tag: competition
-  - name: Green Deal Data Observatory
+  - name: Green Dea
     tag: greendeal
-  - name: Economy Data Observatory
+  - name: Economy
     tag: economy
 
 design:
