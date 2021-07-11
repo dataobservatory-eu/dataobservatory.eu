@@ -55,6 +55,8 @@ email: ""
 highlight_name: false
 ---
 
+We ensure that individual researchers, artists, and professionals, as well as NGOs and small and large organizations can benefit equally from big data in the age of artificial intelligence.
+
 <table>
 <colgroup>
 <col style="width: 25%" />
@@ -71,3 +73,6 @@ highlight_name: false
 </tr>
 </tbody>
 </table>
+
+We are looking for partners to develop our technological solution in a financially sustainable way, bringing increasingly relevant curated open data to light. Our Product/Market Fit was validated in the world’s 2nd ranked university-backed incubator program, the Yes!Delft AI Validation Lab. We are currently developing this project with the help of the JUMP European Music Market Accelerator program.
+
