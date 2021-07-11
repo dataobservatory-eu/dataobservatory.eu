@@ -25,9 +25,6 @@ main:
   - name: Code
     url: '/software/'
     weight: 60
-  - name: Topics
-    url: '#tags'
-    weight: 70
   - name: Talks
     url: '#talks'
     weight: 80
