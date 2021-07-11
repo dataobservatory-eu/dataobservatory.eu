@@ -60,7 +60,10 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78556699/
-
+- icon: globe
+  icon_pack: fas
+  name: Automated Data Observatories
+  url: https://dataobservatory.eu/#observatories
 url_pdf: ''
 url_code: ''
 url_dataset: ''
