@@ -18,7 +18,7 @@ organizations:
   url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: From open data and open-source statistical software to data-as-service.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,20 +55,7 @@ email: ""
 highlight_name: false
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/icons/dmo_avatar.png" caption="[Digital Music Observatory](/services/data-curation/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Competition Data Observatory](/data/open-gov/#is-there-value-left-in-open-data)</br>Our youngest, early-stage prototype observatory for computation antitrust." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/gdo_avatar.png" caption="[Green Deal Data Observatory](/services/metadata/)<br>Connect environmental sensory data, political and policy survey data with socio-economic indicators." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/edo_avatar.png" caption="[Economy Data Observatory](/services/data-as-service/)</br>An incubator for socio-economic data observatories." numbered="false" >}}</td>
-</tr>
-</tbody>
-</table>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data](/services/data-curation/)</br> [Curation](/services/data-curation/)</br>Data sits everywhere and it is not easy to find even at home. Our curators know where to dig." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="[Professional Data Processing](/data/open-gov/#is-there-value-left-in-open-data)</br>Uncut diamonds need to be polished. Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="[Metadata: Documentation & Codebooks](/services/metadata/)</br>Adding FAIR metadata exponentially increases the value of data. We use DataCite and SDMX statistical coding." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/services/data-as-service/)</br></br>Reusable, easy-to-import, interoperable, always fresh data in tidy formats with a modern API." numbered="false" >}}</td>
