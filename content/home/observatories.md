@@ -35,6 +35,8 @@ content:
     tag: climate-change
   - name: Economy
     tag: economy
+  - name: Cultural & Creative
+    tag: ccsi
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
