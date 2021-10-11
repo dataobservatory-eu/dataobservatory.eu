@@ -4,16 +4,12 @@ summary: Relying on modern data science, the re-use of open governmental data, o
 tags:
 - ccsi
 date: "2021-10-05T18:00:00Z"
-lastmod: "2021-10-06T18:00:00Z"
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+image:
+  caption: ""
+  focal_point: Smart
 
 links:
 - icon: twitter
@@ -24,27 +20,31 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
+- icon: telescope
+  icon_pack: fas
+  name: Economy Data Observatory
+  url: https://economy.dataobservatory.eu/
+- icon: database
+  icon_pack: fas
+  name: Try API
+  url: https://api.econommy.dataobservatory.eu/
 - icon: globe
   icon_pack: fas
-  name: Cultural & Creative Sectors Industries Observatory
-  url: https://ccsi.data.observatory/
+  name: Automated Data Observatories
+  url: https://dataobservatory.eu/#observatories
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
 
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: data-curation
+
+---
 
 The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union.
 
