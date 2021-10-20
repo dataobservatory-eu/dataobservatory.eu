@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: Data Curation With Reprex
+summary: Turstworthy AI With Reprex
 authors: []
 tags: []
 categories: []
@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Data Curation With Reprex
+# Trustworthy AI With Reprex
 
 [Reprex](https://wowchemy.com/) | [Data Curation](https://owchemy.com/docs/managing-content/#create-slides)
 
@@ -33,21 +33,30 @@ slides:
 
 ---
 
-## Data Curation
+## Trustworthy AI
 
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
+The European Union has adopted the [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) with seven important principles:
+
+1. Human agency and oversight
+2. Technical robustness and safety
+3. Privacy and Data governance
+4. Transparency
+5. Diversity, non-discrimination and fairness
+6. Societal and environmental well-being
+7. Accountability
+
+In the EU, in the US or in the UK creative industries usually do not have access to trustworthy AI in 2021.
 
 ---
 
-## Fragments
+## Our Focus
 
 Make content appear incrementally
 
-
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} * Transparency: we use open data, open source software, and we make sure that our clients understand what is happening with their products {{% /fragment %}}
+{{% fragment %}} * Diversity: we know that a Slovak, Hungarian or Estonian song has less chances than an American one.  We see that many corporate algorithms reinforce racism and patriarchy. {{% /fragment %}}
+{{% fragment %}} * Societal well-being: we understand that the algorithm is maximizing the well-being and profit of the entity that trains it. {{% /fragment %}}
+{{% fragment %}} * Accountability: algorithm-driven robotic sales must be held accountable, and must comply with consumer-protection, competition-protecion and non-discrimination rules. {{% /fragment %}}
 
 <Press `Space` to play!>
 

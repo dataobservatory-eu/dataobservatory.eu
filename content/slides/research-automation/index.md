@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: Data Curation With Reprex
+summary: Research Automation With Reprex
 authors: []
 tags: []
 categories: []
@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Data Curation With Reprex
+# Research Automation With Reprex
 
-[Reprex](https://wowchemy.com/) | [Data Curation](https://owchemy.com/docs/managing-content/#create-slides)
+[Reprex](https://wowchemy.com/) | [Research Automation](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
 
@@ -33,9 +33,13 @@ slides:
 
 ---
 
-## Data Curation
+## Research Automation
 
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
+We believe that if you have already done the same data processing or controlling step twice in your team, the problem will show up the third and the fourth time, too.
+
+- If your junior researchers have downloaded the same dataset at least twice, or made the same processing steps in Excel or Power BI already twice, then it is high-time to automate the process, because each manual process is time-consuming and error-prone. 
+
+- For your senior researchers, automation of data validation and unit-testing can save equally many hours.
 
 ---
 
