@@ -24,7 +24,7 @@ location = "Online"
 # Is this a selected talk? (true/false)
 selected = true
 # Tags (optional).
-tags = ["open-data", "music", "data-observatory"]
+tags = ["open data", "music", "data-observatory"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

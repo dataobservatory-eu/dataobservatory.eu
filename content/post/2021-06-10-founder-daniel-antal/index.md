@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["open-data", "open-science", "trustworthy AI", "service-design", "data collection"]
+tags = ["open data", "open-science", "trustworthy AI", "service-design", "data collection"]
 
 summary = "Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes."
 

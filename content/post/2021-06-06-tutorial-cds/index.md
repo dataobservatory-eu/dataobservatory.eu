@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["open-data", "open-science", "reproducible research", "open government", "tutorials", "rbloggers", "Copernicus", "biosphere", "vegetation", "LAI"]
+tags = ["open data", "open-science", "reproducible research", "open government", "tutorials", "rbloggers", "Copernicus", "biosphere", "vegetation", "LAI"]
 
 summary = "In this series of blogposts we will show how to collect environmental data from the EU’s Copernicus Climate Data Store, and bring it to a data format that you can join with Eurostat’s socio-economic and environmental data."
 

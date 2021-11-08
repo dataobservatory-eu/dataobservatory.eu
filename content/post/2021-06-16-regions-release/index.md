@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
 
-tags = ["open-data", "open-science", "regional data", "sub-national data", "R", "data collection"]
+tags = ["open data", "open-science", "regional data", "sub-national data", "R", "data collection"]
 
 summary = "There are numerous advantages of switching from a national level of the analysis to a sub-national level comes with a huge price in data processing, validation and imputation, and the regions package aims to help this process."
 

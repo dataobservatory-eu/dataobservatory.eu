@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["open-data", "open-science", "R", "data collection", "Arab Barometer", "survey harmonization"]
+tags = ["open data", "open-science", "R", "data collection", "Arab Barometer", "survey harmonization"]
 
 summary = "A new version of the retroharmonize R package – which is working with retrospective, ex post harmonization of survey data – was released yesterday after peer-review on CRAN. It allows us to compare opinion polling data from the Arab Barometer with the Eurobarometer and Afrorbarometer. This is the first version that is released in the rOpenGov community, a community of R package developers on open government data analytics and related topics."
 
