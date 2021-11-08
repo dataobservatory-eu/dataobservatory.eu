@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "AI", "Netherlands", "algorithms", "NLAIC"]
+tags = ["Listen Local", "AI", "Netherlands", "algorithms", "NLAIC"]
 
 summary = "Reprex is committed to develop its data platforms, or automated data observatories, and its Listen Local system in a trustworthy manner. Our startup participates in various scientific collaborations that are researching ideas on future regulation of copyright and fair competition with respect to AI algorithms, and joined the Dutch AI Coalition to position the company and the Netherlands at the forefront of knowledge and application of AI for prosperity and well-being, respecting Dutch and European values."
 

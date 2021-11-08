@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
+tags = ["Listen Local", "Slovakia", "justice", "algorithms", "big-data", 
 "recommendations", "local-content-requirements"]
 
 summary = "We needed a database of Slovak music to show how that national repertoire is seen by media and streaming platforms, how can we give it greater visibility in radio and streaming platforms, and what are the specific problems why certain artists and music is almost invisible."

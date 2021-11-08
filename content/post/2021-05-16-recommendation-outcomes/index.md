@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-project = ["listen-local"]
+project = ["Listen Local"]
 
-tags = ["algorithms", "Slovakia", "trustworthy-ai", "recommendations"]
+tags = ["algorithms", "Slovakia", "trustworthy AI", "recommendations"]
 
 summary = "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
 
