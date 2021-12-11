@@ -51,6 +51,12 @@ The [Digital Music Observatory](https://music.dataobservatory.eu/)  is a fully a
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "https://music.dataobservatory.eu/media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
+{{< icon name="globe" pack="fas" >}} [Visit the Digital Music Observatory](https://music.dataobservatory.eu/)
+
+{{< icon name="database" pack="fas" >}} [Try the Digital Music Observatory API](https://api.music.dataobservatory.eu/)
+
+{{< icon name="linkedin" pack="fab" >}} [Connect on LinkedIn](https://www.linkedin.com/company/79286750/)
+
 Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](https://music.dataobservatory.eu//post/2020-11-16-european-music-observatory-feasibility/): [Music Economy](https://music.dataobservatory.eu//pillars/music-and-society/); [Diversity & Circulation](https://music.dataobservatory.eu//pillars/diversity-circulatoin/); [Music & Society](https://music.dataobservatory.eu//pillars/music-and-society/) and [Innovation - innovative data applications](https://music.dataobservatory.eu//#usecases)
 
 Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program. 

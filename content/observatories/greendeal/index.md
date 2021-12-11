@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: telescope
+- icon: globe
   icon_pack: fas
   name: Green Deal Data Observatory
   url: https://greendeal.dataobservatory.eu/
@@ -45,6 +45,13 @@ slides: ""
 ---
 
 **Finding reliable historic and new data and information about climate change, as well as the impact of various European Green Deal policies that try to mitigate it is surprisingly hard to find if you are a scientific researcher. And it is even more hopeless if you work as a (data) journalist, a policy researcher in an NGO, or in the sustainability unit of a company that does not provide you with an army of (geo)statisticians, data engineers, and data scientists who can render various data into usable format, i.e.something that you can trust, quote, visualize, import, or copy & paste.**
+
+{{< icon name="globe" pack="fas" >}} [Visit the Green Deal Data Observatory](https://greendeal.dataobservatory.eu/)
+
+{{< icon name="database" pack="fas" >}} [Try the Green Deal Data Observatory API](https://api.greendeal.dataobservatory.eu/)
+
+{{< icon name="linkedin" pack="fab" >}} [Connect on LinkedIn](https://www.linkedin.com/company/78562153/)
+
 
 ## Better, Bigger, Faster, More
 
