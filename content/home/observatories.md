@@ -69,5 +69,3 @@ design:
 </tr>
 </tbody>
 </table>
-
-
