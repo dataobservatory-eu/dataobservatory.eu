@@ -7,11 +7,15 @@ categories: []
 date: "2020-01-21T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
 
 # Data Curation With Reprex
 
@@ -30,6 +34,20 @@ slides:
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+
+---
+## Novel Data Products
+
+  <section>
+  <table class="reveal" style='font-family:"Roboto Condensed"; font-size:60%'>
+   <col width="240">
+   <col width="480">
+    <tr>
+      <td><img data-src="/media/img/blogposts_2021/global_problem_1_climate_change_5_plots.png" width="240" height="160" /></br></br> See our <a href="https://greendeal.dataobservatory.eu/post/2021-11-19_global_problem/" target = "_blank">100,000 Opinions on the Most Pressing Global Problem</a> blogpost.</td>
+      <td valign='top'>Official statistics at the national and European levels follow legal regulations, and in the EU, compromises between member states. New policy indicators often appear 5-10 years after demand appears. We employ the same methodology, software, and often even the same data that Eurostat might use to develop policy indicators, but we do not have to wait for a political and legal consensus to create new datasets. </td>
+    </tr>
+  </table>
+  </section>
 
 ---
 
@@ -59,24 +77,6 @@ A fragment can accept two optional parameters:
 - `weight`: sets the order in which a fragment appears
 
 ---
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
 
 ---
 
