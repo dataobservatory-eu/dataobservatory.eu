@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 title: Automated Data Observatories
-subtitle: **Try and join our data ecosystems**: Our modern data observatories are turning shared, pooled, public and open data with the help of our open-source statistical software into to data-as-service.
+subtitle: Try and join our data ecosystems---Our modern data observatories are turning shared, pooled, public and open data with the help of our open-source statistical software into to data-as-service.
 
 content:
   # Page type to display. E.g. project.
